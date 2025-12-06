@@ -18,7 +18,7 @@ Sou uma profissional **dedicada, comunicativa e sempre em busca de novos desafio
   <img align="center" alt="Jess-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-## 🛠 Skills  
+## Skills  
 
 ### 🔹 **Linguagens & Frameworks**  
 
@@ -44,6 +44,6 @@ Sou uma profissional **dedicada, comunicativa e sempre em busca de novos desafio
 
 ---
 
-## 📬 **Entre em Contato!**
+## **Entre em Contato!**
 📩 **Email:** [jessicameiradeoliveira@gmail.com](mailto:jessicameiradeoliveira@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/jéssica-meira/](https://www.linkedin.com/in/jéssica-meira/)  
