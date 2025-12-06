@@ -44,4 +44,6 @@ Sou  **dedicada, comunicativa e sempre em busca de novos desafios** para crescer
 
 ## **Entre em Contato!**
 📩 **Email:** [jessicameiradeoliveira@gmail.com](mailto:jessicameiradeoliveira@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/jéssica-meira/](https://www.linkedin.com/in/jéssica-meira/)  
+💼 **LinkedIn:** [linkedin.com/in/jéssica-meira/](https://www.linkedin.com/in/jéssica-meira/) 
+
+![Snake animation](https://github.com/jessicameiradeoliveira/jessicameiradeoliveira/blob/output/github-contribution-grid-snake.svg)
