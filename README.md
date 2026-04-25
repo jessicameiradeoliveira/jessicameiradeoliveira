@@ -1,5 +1,5 @@
 <h1 align="center">Jéssica Meira de Oliveira🤍</h1>
-<h3 align="center">Desenvolvedora Backend</h3>
+<h3 align="center">Desenvolvedora Backend em Formação</h3>
 
 ## Sobre mim  
 
