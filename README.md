@@ -7,8 +7,6 @@ Atualmente, concluí o Ensino Médio no **IFG - Câmpus Inhumas** onde também f
 
 Durante esse tempo, aprendi um pouco sobre todas as áreas da tecnologia como front-end, back-end, arquitetura de computadores, segurança da informação, redes de computadores, análise orientada a objetos entre outros. Além de ter realizado meu estágio na instituição promovendo a manutenção dos computadores nos laboratórios de informática.
 
-Estou buscando aprender mais sobre a área de back-end na qual sonho em me graduar na UFG em Engenharia de Software e trabalhar profissionalmente com Java.
-
 Sou  **dedicada, comunicativa e sempre em busca de novos desafios** para crescer na área de tecnologia.
 
 <div style="display: inline_block"><br>
