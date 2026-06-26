@@ -1,45 +1,54 @@
 <h1 align="center">Jéssica Meira de Oliveira🤍</h1>
-<h3 align="center">Desenvolvedora Backend em Formação</h3>
+<h3 align="center">Desenvolvedora Mobile Jr. | Flutter & Dart</h3>
 
-## Sobre mim  
+## 🚀 Sobre mim  
 
-Atualmente, concluí o Ensino Médio no **IFG - Câmpus Inhumas** onde também finalizei o curso integrado em Técnico em Informática. 
+Sou Técnica em Informática para Internet (formada pelo **IFG - Câmpus Inhumas**) e Desenvolvedora Mobile Jr. Sou movida pela convicção de que a tecnologia é um dos pilares mais potentes para o desenvolvimento pessoal e social na era atual. Meu trabalho vai além da escrita de código: busco criar soluções que façam sentido e agreguem valor real.
 
-Durante esse tempo, aprendi um pouco sobre todas as áreas da tecnologia como front-end, back-end, arquitetura de computadores, segurança da informação, redes de computadores, análise orientada a objetos entre outros. Além de ter realizado meu estágio na instituição promovendo a manutenção dos computadores nos laboratórios de informática.
+Especializada em **Flutter e Dart**, foco na criação de interfaces fluidas e na implementação de boas práticas de programação, sempre priorizando a qualidade, organização e a manutenibilidade do código.
 
-Sou  **dedicada, comunicativa e sempre em busca de novos desafios** para crescer na área de tecnologia.
+Minha jornada é pautada pelo aprendizado contínuo. Estou constantemente buscando evoluir tanto no domínio técnico quanto nas habilidades sociais, engajando-me em projetos práticos e em discussões que somam à comunidade tech.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jess-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jess-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jess-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jess-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+---
 
-### 🔹 **Linguagens & Frameworks**  
+## 🛠️ Habilidades Técnicas
 
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 🔹 **Mobile & Front-End**  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔹 **Banco de Dados & Backend**  
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🔹 **Back-End & Banco de Dados**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔹 **Ferramentas & Versionamento**  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔹 **Arquitetura & Conceitos**  
+*   **Clean Architecture**
+*   **MVC (Model-View-Controller)**
+*   Boas práticas de programação (Clean Code)
+
+### 🔹 **Ferramentas & Ambientes**  
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-## Conheça-me mais...
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/jéssica-meira/)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## **Entre em Contato!**
+⚡ **Estou sempre disposta a novos desafios profissionais e em busca de oportunidades onde eu possa contribuir com inovação, dedicação e, claro, um bom código.**
+
+---
+
+## 📬 Entre em Contato!
+
+Se quiser conversar sobre tecnologia, novos projetos ou oportunidades profissionais, sinta-se à vontade para me chamar:
+
 📩 **Email:** [jessicameiradeoliveira@gmail.com](mailto:jessicameiradeoliveira@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/jéssica-meira/](https://www.linkedin.com/in/jéssica-meira/) 
+💼 **LinkedIn:** [linkedin.com/in/jéssica-meira/](https://www.linkedin.com/in/jéssica-meira/)  
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/jéssica-meira/)
