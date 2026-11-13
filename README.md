@@ -1,4 +1,4 @@
-<h1 align="center">Jéssica Meira de Oliveira🤍</h1>
+<h1 align="center">Jéssica Meira de Oliveira</h1>
 <h3 align="center">Desenvolvedora Mobile Jr. | Flutter & Dart</h3>
 
 ## 🚀 Sobre mim  
@@ -29,7 +29,7 @@ Minha jornada é pautada pelo aprendizado contínuo. Estou constantemente buscan
 ### 🔹 **Arquitetura & Conceitos**  
 *   **Clean Architecture**
 *   **MVC (Model-View-Controller)**
-*   Boas práticas de programação (Clean Code)
+*   **Boas práticas de programação (Clean Code)**
 
 ### 🔹 **Ferramentas & Ambientes**  
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
